@@ -79,9 +79,9 @@
 			?>
 
 		
-		<div id="footer" style="background-color:   #d5f5e3 ;">
+<!-- 		<div id="footer" style="background-color:   #d5f5e3 ;">
 			<marquee direction="right"><p>&copy; 2021 - Digital Library</p></marquee>
-		</div>
+		</div> -->
 		
 		
     </div><!--/.fluid-container-->
